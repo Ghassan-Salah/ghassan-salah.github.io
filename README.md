@@ -46,5 +46,5 @@ I'm working through a structured, certification-focused roadmap to broaden my sk
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/g-salah
-- Email: gosalah82@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/g-salah)
+- [Email](mailto:gosalah82@gmail.com)
