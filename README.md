@@ -21,10 +21,10 @@ I'm currently targeting roles such as IT Systems Administrator, Network Administ
 
 ## Certifications
 
-- [Information Technology Specialist (ITS): Networking](certifications/its-networking.pdf)
-- [Information Technology Specialist (ITS): Network Security](certifications/its-network-security.pdf)
-- [Information Technology Specialist (ITS): Device Configuration and Management](certifications/its-device-configuration-and-management.pdf)
-- [CertiPort — Communication Skills for Business (CSB)](certifications/certiport-csb-professional-management.pdf)
+- [Information Technology Specialist (ITS): Networking](/certifications/its-networking.pdf)
+- [Information Technology Specialist (ITS): Network Security](/certifications/its-network-security.pdf)
+- [Information Technology Specialist (ITS): Device Configuration and Management](/certifications/its-device-configuration-and-management.pdf)
+- [CertiPort — Communication Skills for Business (CSB)](/certifications/certiport-csb-professional-management.pdf)
 
 ## Currently Expanding
 
