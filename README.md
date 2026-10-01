@@ -37,7 +37,7 @@ I'm working through a structured, certification-focused roadmap to broaden my sk
 
 | Folder / File | Description |
 |---|---|
-| `resume.pdf` | Current resume |
+| [resume.pdf](resume.pdf) | Current resume |
 | `phase1-network-diagram/` | Home network design and documentation |
 | `phase1-troubleshooting-log/` | Documented IT troubleshooting case log |
 | `capstone-[track]/` | Specialization capstone project (in progress) |
