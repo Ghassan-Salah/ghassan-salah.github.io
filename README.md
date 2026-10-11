@@ -1,7 +1,10 @@
 # Ghassan Salah — IT Systems & Infrastructure Portfolio
 
 Welcome. This repository is a working record of my hands-on IT infrastructure and systems administration work — real projects, configurations, and documentation, not just a list of courses or certificates.
-[resume.pdf](resume.pdf) Current resume
+
+[ Current resume](resume.pdf)
+
+
 ## About Me
 
 IT infrastructure and systems specialist with 15+ years of experience managing high-availability networks, disaster recovery, and enterprise server environments. My background centers on identity management, core networking, and virtualization, and I'm actively expanding into hybrid cloud administration (Microsoft 365, Entra ID) and broader enterprise security tooling.
