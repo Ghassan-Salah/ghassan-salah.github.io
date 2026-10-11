@@ -42,7 +42,7 @@ I'm working through a structured, certification-focused roadmap to broaden my sk
 | Folder / File | Description |
 |---|---|
 | [resume.pdf](resume.pdf) | Current resume |
-| [certifications/](certifications/) | IT Certificates Completed) |
+|  |  |
 
 *Project folders will be added as each checkpoint is completed.*
 
