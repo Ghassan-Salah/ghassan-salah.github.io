@@ -40,8 +40,6 @@ I'm working through a structured, certification-focused roadmap to broaden my sk
 |---|---|
 | [resume.pdf](resume.pdf) | Current resume |
 | [certifications/](certifications/) | Certificates I've earned (ITS, CertiPort, Cisco Networking Academy) |
-| [IT_Career_Master_Roadmap.pdf](IT_Career_Master_Roadmap.pdf) | My free-first education and certification roadmap, Months 0–15 |
-| [IT_Course_Directory.pdf](IT_Course_Directory.pdf) | Every course in the roadmap, with links |
 
 *Project folders will be added as each checkpoint is completed.*
 
