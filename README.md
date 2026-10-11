@@ -50,3 +50,9 @@ I'm working through a structured, certification-focused roadmap to broaden my sk
 
 - [LinkedIn](https://www.linkedin.com/in/g-salah)
 - [Email](mailto:gosalah82@gmail.com)
+
+## Complete Certification RecordContact
+
+- [Credly](https://www.credly.com/users/ghassan.salah)
+
+
