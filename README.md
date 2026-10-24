@@ -23,6 +23,7 @@ I'm currently targeting roles such as IT Systems Administrator, Network Administ
 - **Languages:** Full professional proficiency in English (written and spoken)
 
 ## Certifications
+- [Cisco Networking Academy — Networking Devices and Initial Configuration](certifications/cisco-networking-devices-and-basic-configuration.pdf)
 - [Cisco Networking Academy - Networking Basics](certifications/cisco-networking-basics.pdf)
 - [Cisco Networking Academy - Getting Started with Cisco Packet Tracer](certifications/cisco-getting-started-with-cisco-packet-tracer.pdf)
 - [Information Technology Specialist (ITS): Networking](/certifications/its-networking.pdf)
