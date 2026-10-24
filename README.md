@@ -3,6 +3,7 @@
 Welcome. This repository is a working record of my hands-on IT infrastructure and systems administration work — real projects, configurations, and documentation, not just a list of courses or certificates.
 
 [ Current resume - Last updated September 15, 2026](resume.pdf)
+[Certificates - Credly](https://www.credly.com/users/ghassan.salah)
 
 
 ## About Me
@@ -54,6 +55,6 @@ I'm working through a structured, certification-focused roadmap to broaden my sk
 
 ## Complete Certification RecordContact
 
-- [Credly](https://www.credly.com/users/ghassan.salah)
+
 
 
