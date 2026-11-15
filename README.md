@@ -30,6 +30,7 @@ I'm currently targeting roles such as IT Systems Administrator, Network Administ
 - [Cisco Networking Academy - Operating Systems Basics](certifications/cisco-operating-systems-basics.pdf)
 - [Cisco Networking Academy - Networking Devices and Initial Configuration](certifications/cisco-networking-devices-and-basic-configuration.pdf)
 - [Cisco Networking Academy - Networking Basics](certifications/cisco-networking-basics.pdf)
+- [Cisco Networking Academy - Introduction to Cybersecurity](certifications/cisco-introduction-to-cybersecurity.pdf)
 - [Cisco Networking Academy - Getting Started with Cisco Packet Tracer](certifications/cisco-getting-started-with-cisco-packet-tracer.pdf)
 - [Information Technology Specialist (ITS): Networking](/certifications/its-networking.pdf)
 - [Information Technology Specialist (ITS): Network Security](/certifications/its-network-security.pdf)
