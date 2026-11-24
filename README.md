@@ -24,6 +24,8 @@ IT Systems and Infrastructure Specialist with 15+ years of experience supporting
 
 ## Certifications and Selected Training
 
+See the [credential index](certifications/README.md) for local certificate PDFs and direct Credly verification links.
+
 **Certiport Information Technology Specialist (ITS)**
 
 - Networking
@@ -43,6 +45,10 @@ IT Systems and Infrastructure Specialist with 15+ years of experience supporting
 - Word Expert (Office 2016)
 
 Additional certificate files are available in the [`certifications`](certifications/) folder.
+
+## Selected Self-Directed IT Labs
+
+The two labs listed on the general CV have reserved project folders under [`IT Systems and Infrastructure Specialist`](IT%20Systems%20and%20Infrastructure%20Specialist/): [Hybrid Identity Infrastructure Lab](IT%20Systems%20and%20Infrastructure%20Specialist/Hybrid%20Identity%20Infrastructure%20Lab/README.md) and [ERPNext Docker Lab](IT%20Systems%20and%20Infrastructure%20Specialist/ERPNext%20Docker%20Lab/README.md).
 
 ## Languages
 
