@@ -2,7 +2,7 @@
 
 This page summarizes my IT systems and infrastructure background, selected credentials, and self-directed labs.
 
-[LinkedIn](https://www.linkedin.com/in/g-salah/) · [Credly](https://www.credly.com/users/ghassan.salah) · [Download my CV (PDF)](Ghassan_Salah_CV.pdf)
+[LinkedIn](https://www.linkedin.com/in/g-salah/) · [Email](mailto:gosalah82@gmail.com) · [Credly](https://www.credly.com/users/ghassan.salah) · [Download my CV (PDF)](Ghassan_Salah_CV.pdf)
 
 ## About Me
 
@@ -44,18 +44,12 @@ See the [credential index](certifications/README.md) for local certificate PDFs 
 
 ## Selected Self-Directed IT Labs
 
-| Lab | Environment | Summary | Project folder |
-|---|---|---|---|
-| **Hybrid Identity Infrastructure Lab** | VMware Workstation Pro; pfSense CE; Windows Server 2022 | Built and tested a four-VM lab integrating on-premises Active Directory with Microsoft Entra ID using Entra Cloud Sync, a gMSA-based provisioning agent, password hash synchronization, and Entra Application Proxy. | [Open lab folder](IT%20Systems%20and%20Infrastructure%20Specialist/Hybrid%20Identity%20Infrastructure%20Lab/README.md) |
-| **ERPNext Docker Lab** | VMware Workstation Pro; Ubuntu Server 24.04; Docker | Deployed and tested ERPNext using Frappe Docker’s `pwd.yml` quick-test setup, with MariaDB and Redis services. | [Open lab folder](IT%20Systems%20and%20Infrastructure%20Specialist/ERPNext%20Docker%20Lab/README.md) |
-
-Both projects are under the resume-heading directory [`IT Systems and Infrastructure Specialist`](IT%20Systems%20and%20Infrastructure%20Specialist/).
+| Lab | Environment | Summary |
+|---|---|---|
+| [Hybrid Identity Infrastructure Lab](Selected%20Self-Directed%20IT%20Labs/Hybrid_Identity_Infrastructure_Lab.pdf) | VMware Workstation Pro; pfSense CE; Windows Server 2022 | Built and tested a four-VM lab integrating on-premises Active Directory with Microsoft Entra ID using Entra Cloud Sync, a gMSA-based provisioning agent, password hash synchronization, and Entra Application Proxy. |
+| [ERPNext Docker Lab](Selected%20Self-Directed%20IT%20Labs/ERPNext_Docker_Lab.pdf) | VMware Workstation Pro; Ubuntu Server 24.04; Docker | Deployed and tested ERPNext using Frappe Docker’s `pwd.yml` quick-test setup, with MariaDB and Redis services. |
 
 ## Languages
 
 - English: Full professional proficiency (technical documentation, spoken, and written).
 - Arabic: Native proficiency (technical documentation, spoken, and written).
-
-## Contact
-
-- [Email](mailto:gosalah82@gmail.com)
