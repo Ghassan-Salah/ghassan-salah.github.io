@@ -24,7 +24,7 @@ The Credly title for the third course is “Networking Devices and Initial Confi
 
 The two MOS certificate PDFs are not in the repository yet. Please upload them to this `certifications/` folder using these filenames so they can be linked here:
 
-- `mos-excel-expert-office-2016.pdf`
-- `mos-word-expert-office-2016.pdf`
+- `mos-office-excel-2016-expert.pdf`
+- `mos-office-word-2016-expert.pdf`
 
 The Credly badge links above remain available for online verification.
