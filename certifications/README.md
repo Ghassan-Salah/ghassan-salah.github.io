@@ -1,6 +1,6 @@
 # Certificates and Verified Badges
 
-This index lists the credentials selected for the current general CV. Local PDF certificates are linked where they are already present in this repository. Credly links go to the credential records on the correct profile. Cisco Networking Academy entries are course completions, not professional certifications.
+This index lists the certifications and course completions selected for my CV. Local PDF certificates are linked where present; Credly links open the corresponding records on the correct profile. Cisco Networking Academy entries are course completions, not professional certifications.
 
 ## Certiport Information Technology Specialist
 
@@ -22,4 +22,9 @@ The Credly title for the third course is “Networking Devices and Initial Confi
 - **Microsoft Office Specialist: Excel Expert (Office 2016)** — [Credly badge](https://www.credly.com/badges/ad20ba9b-c607-407a-83a0-c7763a2a42f4)
 - **Microsoft Office Specialist: Word Expert (Office 2016)** — [Credly badge](https://www.credly.com/badges/5d517899-af9a-4261-9709-04ebb3eb8dd1)
 
-Separate MOS certificate PDFs are not currently stored in this repository. The official Credly badge links provide the verification pages, so no badge images need to be downloaded for this index.
+The two MOS certificate PDFs are not in the repository yet. Please upload them to this `certifications/` folder using these filenames so they can be linked here:
+
+- `mos-excel-expert-office-2016.pdf`
+- `mos-word-expert-office-2016.pdf`
+
+The Credly badge links above remain available for online verification.

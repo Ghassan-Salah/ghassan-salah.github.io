@@ -1,6 +1,8 @@
 # IT Systems and Infrastructure Specialist
 
-This folder is reserved for the two self-directed IT labs listed on the general CV. Add the corresponding project files to each project subfolder when ready.
+This folder contains the two self-directed IT labs listed on my CV. Add project files to each subfolder as they are ready.
 
-- [Hybrid Identity Infrastructure Lab](Hybrid%20Identity%20Infrastructure%20Lab/README.md)
-- [ERPNext Docker Lab](ERPNext%20Docker%20Lab/README.md)
+| Lab | Platform | Folder |
+|---|---|---|
+| **Hybrid Identity Infrastructure Lab** | VMware Workstation Pro; pfSense CE; Windows Server 2022 | [Open project folder](Hybrid%20Identity%20Infrastructure%20Lab/README.md) |
+| **ERPNext Docker Lab** | VMware Workstation Pro; Ubuntu Server 24.04; Docker | [Open project folder](ERPNext%20Docker%20Lab/README.md) |
