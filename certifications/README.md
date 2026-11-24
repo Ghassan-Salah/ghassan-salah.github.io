@@ -19,12 +19,5 @@ The Credly title for the third course is “Networking Devices and Initial Confi
 
 ## Microsoft Office Specialist
 
-- **Microsoft Office Specialist: Excel Expert (Office 2016)** — [Credly badge](https://www.credly.com/badges/ad20ba9b-c607-407a-83a0-c7763a2a42f4)
-- **Microsoft Office Specialist: Word Expert (Office 2016)** — [Credly badge](https://www.credly.com/badges/5d517899-af9a-4261-9709-04ebb3eb8dd1)
-
-The two MOS certificate PDFs are not in the repository yet. Please upload them to this `certifications/` folder using these filenames so they can be linked here:
-
-- `mos-office-excel-2016-expert.pdf`
-- `mos-office-word-2016-expert.pdf`
-
-The Credly badge links above remain available for online verification.
+- **Microsoft Office Specialist: Excel Expert (Office 2016)** — [Certificate PDF](mos-office-excel-2016-expert.pdf) · [Credly badge](https://www.credly.com/badges/ad20ba9b-c607-407a-83a0-c7763a2a42f4)
+- **Microsoft Office Specialist: Word Expert (Office 2016)** — [Certificate PDF](mos-office-word-2016-expert.pdf) · [Credly badge](https://www.credly.com/badges/5d517899-af9a-4261-9709-04ebb3eb8dd1)
