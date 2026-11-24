@@ -1,60 +1,56 @@
-# Ghassan Salah — IT Systems & Infrastructure Portfolio
+# Ghassan Salah — IT Systems and Infrastructure Specialist
 
-Welcome. This repository is a working record of my hands-on IT infrastructure and systems administration work — real projects, configurations, and documentation, not just a list of courses or certificates.
+This page summarizes my IT systems and infrastructure background, selected credentials, and current general CV.
 
-[ Current resume - Last updated September 15, 2026](resume.pdf)
+[Download my general CV (PDF)](Ghassan_Salah_CV.pdf)
 
-[Certificates - Credly](https://www.credly.com/users/ghassan.salah)
-
+[Certificates and badges on Credly](https://www.credly.com/users/ghassan.salah)
 
 ## About Me
 
-IT infrastructure and systems specialist with 15+ years of experience managing high-availability networks, disaster recovery, and enterprise server environments. My background centers on identity management, core networking, and virtualization, and I'm actively expanding into hybrid cloud administration (Microsoft 365, Entra ID) and broader enterprise security tooling.
+IT Systems and Infrastructure Specialist with 15+ years of experience supporting Windows-based servers, networks, workstations, and day-to-day IT operations. Experienced in identity and access administration, endpoint deployment and lifecycle management, hardware and software asset tracking, software license management, backup and recovery, virtualization, and technical support.
 
-I'm currently targeting roles such as IT Systems Administrator, Network Administrator, and IT Infrastructure Specialist.
+## Core Technical Skills
 
-## Core Skills
+- **Systems Administration and Core Services:** Windows Server; Active Directory Domain Services (AD DS); Group Policy; DNS; split-scope DHCP; NTP; SharePoint Server; user and group permissions.
+- **Network Infrastructure:** TCP/IP; Cisco Small Business switching; LACP and NIC teaming; structured cabling and terminations; network resilience and redundancy.
+- **Server, Storage and Resilience:** HPE ProLiant; RAID 1 mirroring and RAID 5/6; QNAP storage with iSCSI LUNs and SMB shares; storage-appliance deduplication; DFS Namespaces and Replication; UPS testing.
+- **Virtualization and Test Environments:** Hyper-V, VMware Workstation Pro, and VirtualBox; VM snapshots and checkpoints; lab deployment and system validation.
+- **Asset and License Management:** SharePoint-based hardware and software inventories; monthly physical asset verification; software license tracking, compliance reviews, allocation, and reclamation.
+- **Deployment and Remote Management:** Windows Deployment Services (WDS); Microsoft Deployment Toolkit (MDT); PDQ Deploy and Inventory; Intel AMT endpoint management; HPE iLO server management; Remote Desktop Protocol (RDP); Remote Server Administration Tools (RSAT).
+- **Endpoint and Server Maintenance:** BIOS configuration; firmware and driver updates; preventive maintenance.
+- **Scripting:** VBScript and Windows batch (CMD) scripts for administrative tasks; occasional PowerShell use.
+- **CAD Application Support and Licensing:** AutoCAD and AutoCAD Architecture, Revit, and Inventor; FlexLM/NLM network license servers.
 
-- **Identity & Directory Services:** Active Directory (AD DS), Group Policy (GPO)
-- **Networking:** DNS, DHCP, TCP/IP, routing fundamentals
-- **Virtualization:** Hyper-V, VMware Workstation Pro
-- **Resilience:** Backup configuration, Disaster Recovery planning and testing
-- **Automation:** PowerShell, VBScript for routine administrative workflows
-- **Support:** Tier 2/3 technical support, incident escalation and resolution
-- **Documentation:** Technical documentation, standard operating procedures, change management
-- **Languages:** Full professional proficiency in English (written and spoken)
+## Certifications and Selected Training
 
-## Certifications
-- [Cisco Networking Academy - Network Addressing and Basic Troubleshooting](certifications/cisco-network-addressing-and-basic-troubleshooting.pdf)
-- [Cisco Networking Academy - Operating Systems Support](certifications/cisco-operating-systems-support.pdf)
-- [Cisco Networking Academy - Computer Hardware Basics](certifications/cisco-computer-hardware-basics.pdf)
-- [Cisco Networking Academy - Operating Systems Basics](certifications/cisco-operating-systems-basics.pdf)
-- [Cisco Networking Academy - Networking Devices and Initial Configuration](certifications/cisco-networking-devices-and-basic-configuration.pdf)
-- [Cisco Networking Academy - Networking Basics](certifications/cisco-networking-basics.pdf)
-- [Cisco Networking Academy - Introduction to Cybersecurity](certifications/cisco-introduction-to-cybersecurity.pdf)
-- [Cisco Networking Academy - Getting Started with Cisco Packet Tracer](certifications/cisco-getting-started-with-cisco-packet-tracer.pdf)
-- [Information Technology Specialist (ITS): Networking](/certifications/its-networking.pdf)
-- [Information Technology Specialist (ITS): Network Security](/certifications/its-network-security.pdf)
-- [Information Technology Specialist (ITS): Device Configuration and Management](/certifications/its-device-configuration-and-management.pdf)
-- [Communication Skills for Business (CSB): Professional Communication](/certifications/csb-professional-communication.pdf)
+**Certiport Information Technology Specialist (ITS)**
 
-## Currently Expanding
+- Networking
+- Network Security
+- Device Configuration and Management
 
-I'm working through a structured, certification-focused roadmap to broaden my skill set into:
-- Hybrid cloud administration — Microsoft 365, Microsoft Entra ID
-- Firewall and network security administration
-- Hyperconverged infrastructure concepts
+**Cisco Networking Academy — Course Completions**
 
-## What's in This Repository
+- Computer Hardware Basics
+- Operating Systems Support
+- Networking Devices and Initial Configuration
+- Network Addressing and Basic Troubleshooting
 
-| Folder / File | Description |
-|---|---|
-| [resume.pdf](resume.pdf) | Current resume |
-|  |  |
+**Microsoft Office Specialist (MOS)**
 
-*Project folders will be added as each checkpoint is completed.*
+- Excel Expert (Office 2016)
+- Word Expert (Office 2016)
+
+Additional certificate files are available in the [`certifications`](certifications/) folder.
+
+## Languages
+
+- English: Full professional proficiency (technical documentation, spoken, and written).
+- Arabic: Native proficiency (technical documentation, spoken, and written).
 
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/g-salah)
+- [Credly](https://www.credly.com/users/ghassan.salah)
 - [Email](mailto:gosalah82@gmail.com)
