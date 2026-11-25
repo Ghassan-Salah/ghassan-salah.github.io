@@ -46,8 +46,8 @@ See the [credential index](certifications/README.md) for local certificate PDFs 
 
 | Lab | Environment | Summary |
 |---|---|---|
-| [Hybrid Identity Infrastructure Lab](Selected%20Self-Directed%20IT%20Labs/Hybrid_Identity_Infrastructure_Lab.pdf) | VMware Workstation Pro; pfSense CE; Windows Server 2022 | Built and tested a four-VM lab integrating on-premises Active Directory with Microsoft Entra ID using Entra Cloud Sync, a gMSA-based provisioning agent, password hash synchronization, and Entra Application Proxy. |
-| [ERPNext Docker Lab](Selected%20Self-Directed%20IT%20Labs/ERPNext_Docker_Lab.pdf) | VMware Workstation Pro; Ubuntu Server 24.04; Docker | Deployed and tested ERPNext using Frappe Docker’s `pwd.yml` quick-test setup, with MariaDB and Redis services. |
+| [Hybrid Cloud Identity Infrastructure Lab](Selected%20Self-Directed%20IT%20Labs/Hybrid-Cloud-Identity-Infrastructure.pdf) | VMware Workstation Pro; pfSense CE; Windows Server 2022 | Built and tested a four-VM lab integrating on-premises Active Directory with Microsoft Entra ID using Entra Cloud Sync, a gMSA-based provisioning agent, password hash synchronization, and Entra Application Proxy. |
+| [ERPNext Production Docker Architecture Lab](Selected%20Self-Directed%20IT%20Labs/ERPNext-Production-Docker-Architecture.pdf) | VMware Workstation Pro; Ubuntu Server 24.04; Docker | Deployed and tested ERPNext using Frappe Docker’s `pwd.yml` quick-test setup, with MariaDB and Redis services. |
 
 ## Languages
 
